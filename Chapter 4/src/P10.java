@@ -3,7 +3,7 @@
  */
 public class P10 {
     public static void main(String[] args) {
-        System.out.println("Integer range " +
+        System.out.println("Integers range " +
                 "from 100 to 1000 for testing " +
                 "which can be divided by 5 and 6.");
         int number;
