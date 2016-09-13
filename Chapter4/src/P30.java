@@ -5,6 +5,9 @@ import java.util.Scanner;
  */
 public class P30 {
     public static void main(String[] args) {
+<<<<<<< HEAD
+        
+=======
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number of the money: ");
         double accountOfStart = input.nextDouble();
@@ -22,5 +25,6 @@ public class P30 {
         }
         System.out.println("After " + months
                 + " months, total account is " + totalAccount);
+>>>>>>> b7af5fb5cf96666f52a54368a5e4a7da2995588e
     }
 }

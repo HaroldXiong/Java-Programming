@@ -2,8 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d725877e-f1f8-4383-af66-b2acac044768" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P31.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P31.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P33.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P34.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P35.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P36.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P37.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P38.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P39.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P40.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P41.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P42.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P43.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P44.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P45.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/out/production/Chapter 4/P46.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P29.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Chapter5/P9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P31.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P32.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P33.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P34.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P35.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P36.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P37.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P38.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P39.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P40.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P41.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P42.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P43.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P44.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P45.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chapter4/src/P46.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P16.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P17.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P18.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P19.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P20.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P21.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P22.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P23.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P24.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P25.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P26.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P27.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P28.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P29.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P30.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P32.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P35.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P36.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P9.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Chapter3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Chapter4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter4/src/P30.java" afterPath="$PROJECT_DIR$/../Chapter4/src/P30.java" />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
     </list>
     <ignored path="Chapter5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,6 +133,7 @@
     <favorites_list name="Chapter5" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="P31.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/P31.java">
@@ -38,6 +148,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +201,13 @@
         <option value="$PROJECT_DIR$/src/P29.java" />
         <option value="$PROJECT_DIR$/src/P30.java" />
         <option value="$PROJECT_DIR$/src/P31.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/P32.java" />
+        <option value="$PROJECT_DIR$/src/P36.java" />
+        <option value="$PROJECT_DIR$/src/P35.java" />
+        <option value="$PROJECT_DIR$/src/P34.java" />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
       </list>
     </option>
   </component>
@@ -98,9 +218,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -165,81 +284,84 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.P30">
-    <configuration default="false" name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="P26" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter5" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="P27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="P27" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter5" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="P28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="P28" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter5" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="P29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="P29" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter5" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.P35">
     <configuration default="false" name="P30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="P30" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter5" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P32" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter5" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P36" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter5" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P34" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter5" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P35" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -667,19 +789,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P26" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P27" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P28" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P29" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P30" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P30" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P32" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P36" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P34" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P35" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P30" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P29" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P28" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P27" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P26" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P35" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P34" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P36" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P32" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P30" />
       </list>
     </recent_temporary>
   </component>
@@ -711,12 +833,17 @@
       <workItem from="1473753277502" duration="2276000" />
       <workItem from="1473760297280" duration="2436000" />
       <workItem from="1473770001527" duration="2091000" />
+<<<<<<< HEAD
       <workItem from="1473776792673" duration="2165000" />
       <workItem from="1473779618195" duration="186000" />
+=======
+      <workItem from="1473815187174" duration="2328000" />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="32463000" />
   </component>
   <component name="ToolWindowManager">
@@ -725,16 +852,27 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="32440000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32738096" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32738096" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14421669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -772,6 +910,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/P31.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -789,6 +928,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
     <entry file="file://$PROJECT_DIR$/src/P28.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1078,22 +1219,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/P30.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7">
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P28.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P29.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="391">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+=======
+        <state relative-caret-position="26">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#P29#0" expanded="false" />
+          </folding>
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P32.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="7">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+=======
+        <state relative-caret-position="342">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P33.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="187">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
         </state>
@@ -1106,6 +1311,19 @@
           <folding>
             <element signature="docComment;class#P31#0" expanded="false" />
           </folding>
+=======
+        <state relative-caret-position="57">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+>>>>>>> 6286d60909fc36b7c051904b59b6a1d8f1a9e302
         </state>
       </provider>
     </entry>
