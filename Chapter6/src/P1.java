@@ -12,7 +12,6 @@ public class P1 {
         double[] scores = new double[number];
         double best = 0;
         for (int i = 0; i < scores.length; i++) {
-
             scores[i] = input.nextDouble();
             if (scores[i] > best) {
                 best = scores[i];
